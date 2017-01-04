@@ -1,2 +1,15 @@
-# portrait-map
-Scrolling, illustrated map of our travels in 2017!
+Install it
+
+`$ npm i`
+
+Run it
+
+`$ npm run start`
+
+Build it
+
+`$ npm run build`
+
+Watch it
+
+`$ npm run watch`

@@ -1,0 +1,14 @@
+
+> codrops-map@1.0.0 build /Users/marciagary/Projects/StorytellingMap
+> npm run build-js
+
+
+> codrops-map@1.0.0 build-js /Users/marciagary/Projects/StorytellingMap
+> webpack && uglifyjs dist/app.js --screw-ie8 -c -m -o dist/app.js
+
+Hash: f6810cf579ba21d47190
+Version: webpack 1.14.0
+Time: 4598ms
+ Asset    Size  Chunks             Chunk Names
+app.js  663 kB       0  [emitted]  main
+    + 309 hidden modules
